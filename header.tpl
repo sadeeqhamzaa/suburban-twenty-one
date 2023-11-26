@@ -48,7 +48,7 @@
                         <div class="ml-auto">
                             <div class="input-group active-client" role="group">
                                 <div class="input-group-prepend d-none d-md-inline">
-                                    <span class="input-group-text">{lang key='loggedInAs'}:</span>
+                                    <span class="input-group-text">Sadeeq{lang key='loggedInAs'}:</span>
                                 </div>
                                 <div class="btn-group">
                                     <a href="{$WEB_ROOT}/clientarea.php?action=details" class="btn btn-active-client">
